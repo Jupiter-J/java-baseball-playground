@@ -33,3 +33,6 @@
 ### 2022-06-03 진행상황
 * 테스트 진행시 mismatch 에러 [상세내용](https://velog.io/@jupiter-j/에러-junit.platform.launcher.core.EngineDiscoveryOrchestrator-tests-were-Method-or-class-mismatch)
 * String TEST 완료
+
+### 2022-06-04 진행상황
+* Set TEST 
